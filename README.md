@@ -1,4 +1,4 @@
-# Anki AI - Add example sentences to your Anki notes with ChatGPT
+# Anki AI - Create Sentences from Words With ChatGPT
 
 > _Note: This README has been improved by ChatGPT 😀_
 
