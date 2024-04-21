@@ -1,0 +1,15 @@
+{
+    "include": ["src/**/*"],
+    "compilerOptions": {
+        "target": "es2021",
+        "lib": ["es2021"],
+        "module": "node16",
+        "types": ["node"],
+        "esModuleInterop": true,
+        "outDir": "./build",
+        "skipLibCheck": true,
+        "strict": true,
+        "exactOptionalPropertyTypes": true,
+        "declaration": true
+    }
+}
